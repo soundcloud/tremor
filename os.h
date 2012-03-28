@@ -18,7 +18,7 @@
  ********************************************************************/
 
 #include <math.h>
-#include <ogg/os_types.h>
+#include "os_types.h"
 
 #ifndef _V_IFDEFJAIL_H_
 #  define _V_IFDEFJAIL_H_
@@ -41,8 +41,6 @@
 #  define rint(x)   (floor((x)+0.5f)) 
 #  define NO_FLOAT_MATH_LIB
 #  define FAST_HYPOT(a, b) sqrt((a)*(a) + (b)*(b))
-#  define LITTLE_ENDIAN 1
-#  define BYTE_ORDER LITTLE_ENDIAN
 #endif
 
 #ifdef HAVE_ALLOCA_H

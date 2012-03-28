@@ -1,4 +1,11 @@
-Copyright (c) 2002, Xiph.org Foundation
+Previous versions of this software have been released under the
+terms of the GNU GPL. Thanks to a grant from Google, this version
+is released is under the same BSD style license as the original
+Theora software was.
+
+
+Copyright (C) 2002-2009 Xiph.org Foundation
+Changes Copyright (C) 2009-2010 Robin Watts for Pinknoise Productions Ltd
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions
